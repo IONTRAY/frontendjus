@@ -22,17 +22,7 @@ document.addEventListener('DOMContentLoaded', function(){
         document.getElementById('homeForm').addEventListener('submit', function(event){
         event.preventDefault();
 
-        // Get the selected value from the dropdown
        
-
-        // Get the answer from the input field
-        const answer = document.getElementById('ans5').value;
-
-        // Rest of your code...
-        
-        // Log the selected option and answer (for demonstration purposes)
-        console.log('Selected Option:', selectedOption);
-        console.log('Answer:', answer);
     });
 });
 
@@ -55,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function(){
             $(".overlay").show(500);
 
             // Send data to server in JSON format
-            fetch('/indexsq', {
+            fetch('https://secondonly.onrender.com/indexsq', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
