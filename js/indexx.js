@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function(){
             $(".overlay").show(500);
 
             // Send data to server in JSON format
-            fetch('/indexx', {
+            fetch('https://secondonly.onrender.com/indexcc', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
